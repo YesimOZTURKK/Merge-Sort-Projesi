@@ -8,7 +8,7 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 2.  Merge Sort Big-O gösterimini yazınız.
 
 ---
-##CEVAPLAR
+## CEVAPLAR
 
 1.  Bu bölümde önce parçalara ayırıp sonrasında birleştireceğiz.
      * [16,21,11,8,12,22]
